@@ -1,6 +1,5 @@
 # Task-Mangement-Dashboard
 
-Below is a simple and clear README file for your TaskHub project that you can use on GitHub. It explains what the project is, how to set it up, and how to use it, in a way that's easy to understand.
 
 TaskHub:
 TaskHub is a simple and modern task management web application. It allows users to create, edit, and track tasks, view them on a calendar, and analyze task progress. The app includes a clean interface, dark/light mode toggle, and user authentication (login/signup).
